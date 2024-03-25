@@ -47,3 +47,12 @@ main > div {
 .education > * {
   margin-bottom: 5px;
 }
+
+.years {
+  color: gray;
+  font-size: 0.9rem;
+}
+
+.projects > * {
+  margin-bottom: 0.5rem;
+}
